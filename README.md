@@ -1,2 +1,2 @@
-# -python_study_
+# python_study_
 google-it-automation
